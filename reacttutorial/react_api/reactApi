@@ -1,0 +1,33 @@
+HTTP REQUEST
+
+API SIMULATION - JSON SERVER
+
+It's necessary to have a json server to simulate a API without using existing one with limitations
+
+Install JSON SERVER by using NPM manager : npm i json-server
+
+Creation of a DB as json file in a data folder
+
+Give the command "server" : "json-server --watch data/db.json" in the package.json script
+
+run npm run server command
+
+USEEFFECT HOOK
+
+Avoid re-render for a specific dependency
+
+Used with async functions : Http Request
+
+receiving data
+
+storing in states
+async request by using fetch()
+
+ 
+
+POST METHOD
+
+Using SUBMIT event
+
+Store the new data in states
+

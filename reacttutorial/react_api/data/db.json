@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Camisa",
+      "price": 29.9
+    },
+    {
+      "id": 2,
+      "name": "Calça",
+      "price": 99.9
+    },
+    {
+      "id": 3,
+      "name": "Blusa",
+      "price": 199.99
+    },
+    {
+      "id": 4,
+      "name": "Sapato",
+      "price": 299.99
+    },
+    {
+      "name": "Casaco",
+      "price": "399.99",
+      "id": 5
+    }
+  ]
+}
